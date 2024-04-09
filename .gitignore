@@ -1,0 +1,7 @@
+venv/
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+
+/.idea/hanks_valence.iml
